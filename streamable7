@@ -1,0 +1,7 @@
+-- discord.gg/brooklyn
+
+local Aiming = loadstring(game:HttpGet("https://raw.githubusercontent.com/strongprime/discord.gg-silentaim/main/gg/silentaim",true))()
+Aiming.TeamCheck(false)
+
+local Workspace = game:GetService("Workspace")
+local Players = game:GetService("Players")
